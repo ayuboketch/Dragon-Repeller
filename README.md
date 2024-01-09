@@ -1,9 +1,5 @@
 ![Screen Shot 2024-01-09 at 21 39 02](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/e32f8a8e-2a86-4620-bf4a-4c61119050e1)
 ![Screen Shot 2024-01-09 at 21 40 37](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/a6668339-5c46-45f5-b62d-1135940be672)
-![Screen Shot 2024-01-09 at 23 44 26](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/c7139244-946f-4240-b9e2-da6022aa8a8f)
-![Screen Shot 2024-01-09 at 23 44 46](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/201009e6-ab54-4234-981b-2cf1f57c3fb9)
-![Screen Shot 2024-01-09 at 23 46 00](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/f87757d0-186e-4ef1-b01b-665a4e3c7be0)
-![Screen Shot 2024-01-10 at 00 08 15](https://github.com/ayuboketch/Dragon-Repeller/assets/17433791/de962a71-12f1-4d64-aade-23cb08f12016)
 
 
 # Dragon-Repeller
